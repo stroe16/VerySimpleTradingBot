@@ -1,2 +1,2 @@
-PUBLIC_KEY = '0UVz0CAjMEofiDRui0OgEpdI2ZeITOyJ4BpRZbviaiHzEjNKnrgfWNOLhK4K0SWu'
-SECRET_KEY = 'kW9W3hRHksm5WQ4IAxhexb1SfxsZnLLLSxkyMS5IPDuPawIdaMOXx0SQtPQYzEL2'
+PUBLIC_KEY = 'publicapikey'
+SECRET_KEY = 'secretapikey'
